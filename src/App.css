@@ -1,0 +1,12 @@
+.App {
+  border-radius: 20px;
+  background: rgb(195, 34, 34);
+  background: linear-gradient(
+    0deg,
+    rgba(195, 34, 34, 0.345) 0%,
+    rgba(253, 187, 45, 0.46) 100%
+  );
+}
+body {
+  justify-content: center;
+}
