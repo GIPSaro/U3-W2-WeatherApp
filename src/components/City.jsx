@@ -1,3 +1,5 @@
+//mi manca la chiamata per i 5gg e tutte le altre funzionalità :(
+
 const City = ({ city }) => {
   const currentWeather = city;
   const dailyWeather = city.weather;
